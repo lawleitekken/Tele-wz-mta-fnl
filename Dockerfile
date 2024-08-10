@@ -1,3 +1,4 @@
+# Telegram @NordBotz
 FROM mysterysd/wzmlx:heroku
 
 WORKDIR /usr/src/app
